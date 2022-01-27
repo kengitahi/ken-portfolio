@@ -14,7 +14,7 @@ function Info() {
                 <div className="intro">
                     <h1>Kennedy Gitahi</h1>
                     <h2>Full Stack Web Developer</h2>
-                    <h3><a href="://google.com">kengitahi.com</a></h3>
+                    <h3><a href="//google.com">kengitahi.com</a></h3>
                 </div>
                 <div className="buttons">
                     <a className="email" href="mail:kengitahi@hotmail.com"><img src={mail} alt="Email" />Email</a>
