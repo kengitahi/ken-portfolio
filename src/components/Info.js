@@ -18,7 +18,7 @@ function Info() {
                 </div>
                 <div className="buttons">
                     <a className="email" href="mail:kengitahi@hotmail.com"><img src={mail} alt="Email" />Email</a>
-                    <a className="linkedin" href="://linkedin.com/kengitahi"><img src={linkedin} alt="Linkedin" />LinkedIn</a>
+                    <a className="linkedin" href="https://www.linkedin.com/in/kennedygitahi/" target="_blank" rel="noreferrer"><img src={linkedin} alt="Linkedin" />LinkedIn</a>
                 </div>
             </div>
         </div>

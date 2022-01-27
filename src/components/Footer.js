@@ -1,17 +1,15 @@
 import React from "react";
 
 import twitter from "../assets/img/twitter.png";
-import facebook from "../assets/img/facebook.png";
-import instagram from "../assets/img/instagram.png";
+import linkedin_gray from "../assets/img/linkedin-gray.png"
 import github from "../assets/img/github.png";
 
 function Footer() {
     return (
         <footer>
-            <img src={twitter} alt="twitter" />
-            <img src={facebook} alt="facebook" />
-            <img src={instagram} alt="instagram" />
-            <img src={github} alt="github" />
+            <a href="https://twitter.com/kennedy_gitahi"><img src={twitter} alt="twitter" /></a>
+            <a href="https://www.linkedin.com/in/kennedygitahi/"><img src={linkedin_gray} alt="linkedin" /></a>
+            <a href="https://github.com/kengitahi"><img src={github} alt="github" /></a>
         </footer>
     );
 }

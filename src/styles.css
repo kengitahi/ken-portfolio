@@ -112,3 +112,8 @@ footer {
   padding: 20px 30px;
   background: #161619;
 }
+
+footer img {
+  width: 20px;
+  height: 25px;
+}
